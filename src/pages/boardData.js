@@ -155,7 +155,7 @@ export const boardData = [
     "name": "Ariani Gomez",
     "title": "Technical Director",
     "team": "Brand",
-    "bio": "",
+    "bio": "I’m a freshman majoring in Computer Science in the College of Arts and Sciences. My main interest is the intersection of technology and social good.  I’m on WICC E-Board because I want to be an active member who has the power to enact change within the Cornell community. It is important to me to foster relationships and community among Women in Computing because we can help push and motivate each other. My other interests include: Muay Thai, crochet, reading, and sewing.",
     "netId": "amg374"
   },
   {
